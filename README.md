@@ -7,5 +7,4 @@ the [Drupal community][Drupal community].
 
 ## Login
 
-username = admin
-password = 1oktober2021.
+username = admin / password = 1oktober2021.
